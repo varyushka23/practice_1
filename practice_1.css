@@ -3,7 +3,7 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, цвет1, цвет2, цвет3);
+  background: linear-gradient(120deg, #0E1F2F, #27425D, #87A7D0);
 }
 a {
   color: #0E1F2F;
@@ -94,7 +94,7 @@ a:hover {
 .flat-page header .links li:last-child {
   border-radius: 20px;
   padding: 10px 20px;
-  color: #FFF;
+  color: #ffffff;
   background-color: #0E1B48;
 }
 .flat-page .content .container {
